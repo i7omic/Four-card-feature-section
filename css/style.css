@@ -70,6 +70,7 @@ body .container .grid-container .g1 p, body .container .grid-container .g4 p, bo
   font-weight: 400;
   opacity: 0.5;
   line-height: 23px;
+  font-size: 13px;
 }
 body .container .grid-container .g1 .img, body .container .grid-container .g4 .img, body .container .grid-container .g3 .img, body .container .grid-container .g2 .img {
   padding-top: 40px;
